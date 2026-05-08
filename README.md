@@ -40,10 +40,7 @@ I build security functions from zero — and the products that help small teams 
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hmussana&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
-    <img alt="Hassan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hmussana&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/hmussana/hmussana/main/metrics.svg" alt="GitHub metrics" />
 </p>
 
 <picture>
