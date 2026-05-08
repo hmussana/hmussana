@@ -1,7 +1,7 @@
 <h1 align="center">Hassan Mussana</h1>
 
 <p align="center">
-  <i>Security leader with a builder's spine.</i>
+  <i>Security engineer turned leader. Still close to the code.</i>
 </p>
 
 <p align="center">
@@ -18,15 +18,13 @@ VP, Cybersecurity Strategy & WAAP Product at **Link11**.
 
 Based in Berlin, from Lahore.
 
-I build security functions from zero — and the products that help small teams punch above their weight. From running a 24/7 SOC, to writing infrastructure-as-code at scale, to leading incident response in the wild, to standing up the security function at Moonfare as their first hire and growing it to a team of seven. My career has lived at the seam between security strategy and the engineering that actually ships.
-
-> A security leader with a *builder's* spine.
+Security work, mostly. Built the security function at Moonfare from scratch as their first hire; by the time I left, a sharp, scrappy team was running it. Before that: writing IaC at scale, incident response, AWS & Cloud security engineering and SOC ops. Now at Link11 on WAAP, and cyber strategy in AI era.
 
 ### Now
 
-- **WAAP product strategy** — what modern web & API protection looks like against an AI-shaped attack surface
-- **AI for defensive security** — what actually earns its keep in detection, triage, and IR vs. what's a demo with a good PM behind it
-- **Small-team leverage** — how LLMs reshape what a five-person security org can credibly own
+- **WAAP product strategy** — modern web & API protection
+- **AI for defensive security** — what works in detection, triage, and IR
+- **Small-team leverage** — how LLMs change what a small security team can own
 
 ### Focus
 
