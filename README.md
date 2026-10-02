@@ -19,16 +19,16 @@ focus:    cloud security engineering for regulated businesses
           # AWS at scale, under NIS2, DORA, BaFin BAIT and ISO 27001
 ```
 
-Security engineer first, and still hands-on. Regulation is the constraint the work has to survive, not the subject. Earlier: SOC floors in Lahore, IaC at scale in Hamburg, incident response, then building a security function from the first hire.
+**I build security for regulated cloud estates.** Regulation is the constraint the work has to survive, not the subject. SOC floors in Lahore, IaC at scale in Hamburg, incident response, then a security function built from the first hire.
 
 ### Stack
 
-| Layer | Tools |
-|---|---|
-| Languages | ![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-0D0D0D?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-0D0D0D?style=flat-square&logo=powershell&logoColor=white) |
-| Cloud | ![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=flat-square&logo=amazonwebservices&logoColor=white) IAM, multi-account, CloudTrail, VPC Flow, GuardDuty |
-| IaC | ![Terraform](https://img.shields.io/badge/Terraform-0D0D0D?style=flat-square&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-0D0D0D?style=flat-square&logo=amazonwebservices&logoColor=white) |
-| Local AI | ![Ollama](https://img.shields.io/badge/Ollama-0D0D0D?style=flat-square&logo=ollama&logoColor=white) on a Mac mini, for workloads that stay off the cloud |
+```yaml
+languages: Python, Bash, PowerShell
+cloud:     AWS (IAM, multi-account, CloudTrail, VPC Flow, GuardDuty)
+iac:       Terraform, CloudFormation
+ai:        local models (Ollama) for workloads that stay off the cloud
+```
 
 ### What I like building
 
