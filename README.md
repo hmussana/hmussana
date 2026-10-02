@@ -14,7 +14,6 @@
 
 ```yaml
 whoami:   Hassan Mussana
-role:     VP Cybersecurity Strategy @ Link11
 location: Berlin / Lahore
 focus:    cloud security engineering for regulated businesses
           # AWS at scale, under NIS2, DORA, BaFin BAIT and ISO 27001
